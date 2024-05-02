@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Muhammad Affan and I am a student and front-end web developer.<br>I am passionate about learning new technologies especially related to web development.
+Hi, my name is Muhammad Affan and I am a student of Computer Sciences and a MERN developer.<br>I am passionate about learning new technologies especially related to web development.
 
 
 ## 🌐 Socials:
